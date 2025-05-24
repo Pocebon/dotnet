@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\database\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:database\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\services\\enderecosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:services\\enderecosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\services\\validations\\clientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:services\\validations\\clientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\services\\parsers\\enderecoparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:services\\parsers\\enderecoparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|c:\\users\\felipe\\desktop\\projetos_juliano\\.net\\apiclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412F279D-EA0D-47C3-9358-341C76209B50}|ApiClientes.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\Validations\\ClienteValidation.cs",
+              "RelativeDocumentMoniker": "Services\\Validations\\ClienteValidation.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\Validations\\ClienteValidation.cs",
+              "RelativeToolTip": "Services\\Validations\\ClienteValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:33:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TbEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Database\\Models\\TbEndereco.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\TbEndereco.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Database\\Models\\TbEndereco.cs",
+              "RelativeToolTip": "Database\\Models\\TbEndereco.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:28:30.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoParsers.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\Parsers\\EnderecoParsers.cs",
+              "RelativeDocumentMoniker": "Services\\Parsers\\EnderecoParsers.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\Parsers\\EnderecoParsers.cs",
+              "RelativeToolTip": "Services\\Parsers\\EnderecoParsers.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:28:13.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\EnderecoDTO.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\EnderecoDTO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:25:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:09:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecosService.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\EnderecosService.cs",
+              "RelativeDocumentMoniker": "Services\\EnderecosService.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Services\\EnderecosService.cs",
+              "RelativeToolTip": "Services\\EnderecosService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:29:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:30:15.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnderecosController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Controllers\\EnderecosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnderecosController.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Controllers\\EnderecosController.cs",
+              "RelativeToolTip": "Controllers\\EnderecosController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:24:01.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\PROJETOS_JULIANO\\.net\\ApiClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:25:20.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
